@@ -32,7 +32,7 @@
 2. Run the Uvicorn server:
 
    
-   $ uvicorn app:main --reload [--port <portno>]
+   $ uvicorn main:app --reload [--port <portno>]
    
   
 
